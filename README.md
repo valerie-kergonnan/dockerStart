@@ -30,3 +30,10 @@ Ce README regroupe toutes les captures d'ecran des exercices realises.
 ![Info suite 1](jour2/job-04/info-suite1.png)
 ![Info suite 2](jour2/job-04/info-suite2.png)
 ![Info suite 3](jour2/job-04/info-suite3.png)
+
+## Exercice 5 - jour2/job-05
+
+![Docker suite](jour2/job-05/cmd-install-build.png)
+![Docker info](jour2/job-05/job-05-partie-2.png)
+![Docker info](jour2/job-05/demarrage-serveur.png)
+![Docker info](jour2/job-05/resultat-final.png)
