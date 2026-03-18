@@ -37,3 +37,22 @@ Ce README regroupe toutes les captures d'ecran des exercices realises.
 ![Docker info](jour2/job-05/job-05-partie-2.png)
 ![Docker info](jour2/job-05/demarrage-serveur.png)
 ![Docker info](jour2/job-05/resultat-final.png)
+
+
+## Exercice 6 - jour2/job-06
+
+![Docker+python](jour2/job-06/install-python-build-run.png)
+![Docker+python](jour2/job-06/buil-run-v2.png)
+![Docker+phyton](jour2/job-06/resultat-final6.png)
+
+# construire un container 
+docker build -t 
+
+# demarrer un container
+docker run -d -p 5000:5000 --name flask flask-api:1.0
+
+# stopper le container
+docker stop flask
+
+# supprimer le container
+docker rm flask
